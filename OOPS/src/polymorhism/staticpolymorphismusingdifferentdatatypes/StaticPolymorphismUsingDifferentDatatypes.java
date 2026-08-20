@@ -1,0 +1,4 @@
+package polymorhism.staticpolymorphismusingdifferentdatatypes;
+
+public class StaticPolymorphismUsingDifferentDatatypes {
+}
