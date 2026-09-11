@@ -1,4 +1,6 @@
 package abstraction.smarthomesystem;
 
-public class SmartHomeSystem {
+public interface SmartHomeSystem {
+    void  turnOn();
+    void turnOff();
 }
