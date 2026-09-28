@@ -1,4 +1,4 @@
 package JavaDevelopment.Queue;
 
-public class Queue {
+public class Main {
 }
